@@ -1,2 +1,6 @@
 # hello-world
-This is a hello world repository for learning how to navigate GitHub.
+
+Hello!
+
+I'm James I like programming I'm currently learning c#, c++, and web development
+Ice cream is the best
